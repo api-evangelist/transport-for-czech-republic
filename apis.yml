@@ -1,0 +1,32 @@
+aid: transport-for-czech-republic
+name: Transport for Czech Republic
+description: "Czech transport API"
+url: https://www.chaps.cz/eng/products/idos-internet
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Transport for Czech Republic
+    description: "Czech transport API"
+    humanURL: https://www.chaps.cz/eng/products/idos-internet
+    baseURL: https://www.chaps.cz/eng/products/idos-internet
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://www.chaps.cz/eng/products/idos-internet
+common:
+  - type: Website
+    url: https://www.chaps.cz/eng/products/idos-internet
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
