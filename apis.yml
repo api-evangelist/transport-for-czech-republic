@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://www.chaps.cz/eng/products/idos-internet
 common:
+  - type: VulnerabilityDisclosure
+    url: security/transport-for-czech-republic-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/transport-for-czech-republic-domain-security.yml
   - type: Website
     url: https://www.chaps.cz/eng/products/idos-internet
   - type: PublicAPIsListing
