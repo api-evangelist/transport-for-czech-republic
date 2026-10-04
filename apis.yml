@@ -39,7 +39,6 @@ apis:
   - name: Transport for Czech Republic
     description: "Czech transport API"
     humanURL: https://www.chaps.cz/eng/products/idos-internet
-    baseURL: https://www.chaps.cz/eng/products/idos-internet
     tags:
       - Transportation
     properties:
